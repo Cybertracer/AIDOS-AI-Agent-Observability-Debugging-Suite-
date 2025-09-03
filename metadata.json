@@ -1,0 +1,5 @@
+{
+  "name": "AIDOS: AI Agent Observability & Debugging Suite",
+  "description": "A comprehensive open-source suite offering real-time tracing, interactive visualization, and concept-based debugging specifically tailored for AI agents. It provides a 'thought-loop' visualizer that maps an agent's decision-making process, prompt/response analytics, detailed tool execution monitoring, and anomaly detection for reasoning failures.",
+  "requestFramePermissions": []
+}
