@@ -1,7 +1,7 @@
 
 # AIDOS: AI Agent Observability & Debugging Suite
 
-![AIDOS Dashboard Screenshot](https://storage.googleapis.com/aistos-91db4.appspot.com/aidos_screenshot.png)
+![AIDOS Dashboard Screenshot]([https://storage.googleapis.com/aistos-91db4.appspot.com/aidos_screenshot.png]([https://drive.google.com/file/d/16Mc3snmsxbBrP4kqwB91jWCimoXW3kNi/view?usp=sharing])
 
 AIDOS is a comprehensive open-source suite for real-time tracing, interactive visualization, and concept-based debugging, specifically tailored for complex AI agents. As agents built with frameworks like LangChain, LlamaIndex, and AutoGPT become more sophisticated, debugging their multi-step reasoning, tool interactions, and unexpected behaviors becomes extremely difficult. AIDOS provides the granular, agent-specific insights needed to build transparent and reliable autonomous systems.
 
